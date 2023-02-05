@@ -9,7 +9,7 @@ A ptt crawler client to browse broad news and download image if any default imag
 Install
 --------------
 
-  go get -u -x github.com/kkdai/pttcrawler
+  go get -u -x github.com/PavelPavells/pttcrawler
 
 Usage
 ---------------------
